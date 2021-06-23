@@ -1,0 +1,15 @@
+C:\Users\left4\source\repos\GridNineSis\GridNineSis\bin\Debug\GridNineSis.exe.config
+C:\Users\left4\source\repos\GridNineSis\GridNineSis\bin\Debug\GridNineSis.exe
+C:\Users\left4\source\repos\GridNineSis\GridNineSis\bin\Debug\GridNineSis.pdb
+C:\Users\left4\source\repos\GridNineSis\GridNineSis\obj\Debug\GridNineSis.csproj.CoreCompileInputs.cache
+C:\Users\left4\source\repos\GridNineSis\GridNineSis\obj\Debug\GridNineSis.exe
+C:\Users\left4\source\repos\GridNineSis\GridNineSis\obj\Debug\GridNineSis.pdb
+C:\Users\left4\source\repos\GridNineSis\GridNineSis\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\left4\source\repos\GridNineSis\GridNineSis\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\left4\source\repos\GridNineSis\GridNineSis\bin\Debug\nunit.engine.dll
+C:\Users\left4\source\repos\GridNineSis\GridNineSis\bin\Debug\nunit.engine.api.dll
+C:\Users\left4\source\repos\GridNineSis\GridNineSis\bin\Debug\nunit.engine.core.dll
+C:\Users\left4\source\repos\GridNineSis\GridNineSis\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\left4\source\repos\GridNineSis\GridNineSis\bin\Debug\nunit.framework.dll
+C:\Users\left4\source\repos\GridNineSis\GridNineSis\bin\Debug\nunit.framework.xml
+C:\Users\left4\source\repos\GridNineSis\GridNineSis\obj\Debug\GridNineSis.csproj.CopyComplete
